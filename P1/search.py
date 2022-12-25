@@ -147,7 +147,7 @@ def breadthFirstSearch(problem):
         if(node_added_to_explored[0] not in explored):
             explored.add(node_added_to_explored[0])
             successors = problem.getSuccessors(node_added_to_explored[0])
-            print(successors)
+            # print(successors)
             for i in successors:
                     if (not (is_in_Fringe(i[0], fringe)) and (i[0] not in explored)):
                         # if (problem.isGoalState(i[0])):
