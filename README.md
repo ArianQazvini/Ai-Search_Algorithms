@@ -1,4 +1,4 @@
-# SearchAlgorithms
+# SearchAlgorithms-Ai Course 1st Project-Fall 2022
 In this project i implemented search algorithms and also found admissible and consistent heuristics for pacman in order to find shortest path for reaching all corners and eating all food dots .
 <br/>The core projects and autograders were primarily created by John DeNero
 (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
